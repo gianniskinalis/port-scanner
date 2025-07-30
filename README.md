@@ -1,7 +1,7 @@
 # Port Scanner
 
 This is a simple, multithreaded TCP port scanner written in Python.
-It scans a target IP address or hostname over a custome port range and identifies which ports are open, along with the common service names.
+It scans a target IP address or hostname over a custom port range and identifies which ports are open, along with the common service names.
 
 ## Features
 
